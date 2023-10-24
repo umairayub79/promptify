@@ -7,7 +7,7 @@ const Home = ({searchParams}) => {
       <span className="orange_gradient text-center">AI Powered Prompts</span>
       </h1>
       <p className="desc text-center">
-        Promptopia is an open-source AI Prompt sharing platform for the modern world
+        Promptly is an open-source AI Prompt sharing platform for the modern world
       </p>
       <Feed/>
     </section>
